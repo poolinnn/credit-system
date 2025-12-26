@@ -5,5 +5,5 @@
 ### 3rd level
 
 ``` java
-djscnsdcnwe
+CREATE TABLE client ...
 ```
