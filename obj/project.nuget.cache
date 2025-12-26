@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2sveXDAQxR4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\polina\\Desktop\\3 курс\\Базы Данных\\тр\\tr\\tr\\bank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\polina\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0\\microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\polina\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.0\\microsoft.extensions.logging.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\polina\\.nuget\\packages\\npgsql\\10.0.0\\npgsql.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

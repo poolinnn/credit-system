@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Forms\AcceptClientApplicationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\AccountInfoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\AuthorizationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\CreateApplicationForNewClientForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\InspectorApplicationsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\InspectorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\InspectorProcessedApplicationsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\MyRecordsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\NewApplicationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\PaymentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ManageForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ProfileSettingsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

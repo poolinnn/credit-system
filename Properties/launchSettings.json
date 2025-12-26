@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Bank": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\polina\\Desktop\\3 курс\\Базы Данных\\тр\\tr\\tr\\bin\\Debug\\net10.0-windows7.0\\tr.exe",
+      "workingDirectory": "C:\\Users\\polina\\Desktop\\3 курс\\Базы Данных\\тр\\tr\\tr"
+    }
+  }
+}
